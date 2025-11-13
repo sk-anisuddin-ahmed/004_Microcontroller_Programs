@@ -1,2 +1,24 @@
 # 004_Microcontroller_Programs
-Basic programs for learning microcontroller fundamentals using Arduino, ESP8266/ESP32, PIC, STM32, LPC2148, TI and RL78. Includes simple examples like LED blinking, button input, UART communication, ADC reading, and more—ideal for beginners in embedded systems.
+This repository contains basic programs for various microcontrollers, ideal for beginners learning embedded systems.
+
+## Supported Microcontrollers
+- Arduino
+- ESP8266 / ESP32
+- PIC
+- STM32
+- LPC2148 (ARM7)
+- TI
+- RL78
+
+## Topics Covered
+- LED Blinking
+- Push Button Input
+- Delay generation
+- UART Communication
+- I2C Communication
+- ADC Reading
+- Basic LCD Interfacing
+- Basic OLED Interfacing
+- WebServer
+- ThingsSpeak
+
